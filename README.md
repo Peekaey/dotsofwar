@@ -11,7 +11,7 @@
 Mocha - Lavender Palette
 
 Shell Theme: [Catppuccin Modified](https://github.com/lime-desu/dootsfile/tree/monochrome/themes/MonoTheme%20-%20Catppuccin%20(Mocha:%20Lavender))  
-GTK Theme:  [Catppuccin](https://github.com/catppuccin/gtk)  
+GTK Theme:  [Catppuccin mocha dark lavender](https://github.com/catppuccin/gtk)  
 Spotify Theme: [Catppuccin for Spicetify](https://github.com/catppuccin/spicetify)  
 Firefox Theme: [Catppuccin-mocha-lavender](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-lavender/)  
 Alacritty Theme: [Catppuccin for Alacritty](https://github.com/catppuccin/alacritty)     
