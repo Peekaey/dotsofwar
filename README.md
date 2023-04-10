@@ -4,8 +4,9 @@
 
 
 ## Gnome 
-[alt image 1](/screenshots/GnomeDesktop.png)
-[alt image 1](/screenshots/GnomeApps.png)
+<img src="https://github.com/Peekaey/dots/blob/main/screenshots/GnomeDesktop.png">
+<img src="https://github.com/Peekaey/dots/blob/main/screenshots/GnomeApps.png">  
+
 ### Configs
 Mocha - Lavender Palette
 
