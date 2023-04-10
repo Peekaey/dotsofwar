@@ -14,7 +14,9 @@ Shell Theme: [Catppuccin Modified](https://github.com/lime-desu/dootsfile/tree/m
 GTK Theme:  [Catppuccin](https://github.com/catppuccin/gtk)  
 Spotify Theme: [Catppuccin for Spicetify](https://github.com/catppuccin/spicetify)  
 Firefox Theme: [Catppuccin-mocha-lavender](https://addons.mozilla.org/en-US/firefox/addon/catppuccin-mocha-lavender/)  
-Alacritty Theme: [Catppuccin for Alacritty](https://github.com/catppuccin/alacritty) 
+Alacritty Theme: [Catppuccin for Alacritty](https://github.com/catppuccin/alacritty)     
+VSCode Theme: [Catppucin Mocha](https://github.com/catppuccin/vscode)  
+
 
 Gnome Shell Extensions  
 - [Aylur's Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/)  
