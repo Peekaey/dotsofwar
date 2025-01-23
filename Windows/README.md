@@ -27,5 +27,10 @@ Visual Studio Code
 - [Icons - Kawaii Icons](https://marketplace.visualstudio.com/items?itemName=ryohidaka.kawaii-icons)
 
 
+<img src ="https://github.com/Peekaey/dots/blob/main/screenshots/Rider.png">
+<img src ="https://github.com/Peekaey/dots/blob/main/screenshots/Webstorm.png">
+
+
 // TODO
 - Datagrip
+- Add VSCode Screenshot (Prolly not needed as its mostly default)
