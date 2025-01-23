@@ -1,6 +1,5 @@
-# Dotfiles for Gnome [WIP]
+# Dotfiles for Gnome
 
-## Hyprland
 
 
 ## Gnome 
